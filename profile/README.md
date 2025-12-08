@@ -1,5 +1,4 @@
-# .github
-Projekt Adler Übersicht
+# Projekt Adler
 
 Links:
 
