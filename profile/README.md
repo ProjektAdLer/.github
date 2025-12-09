@@ -10,7 +10,7 @@
 | AdLer Icons Downloadpage | https://icons.projekt-adler.eu |
 | AdLer 3D-Models Downloadpage | https://models.projekt-adler.eu |
 | AdLer Lernzielunterstützung | https://lernziele.projekt-adler.eu |
-| AdLer Dokumentation | https://projektadler.github.io/Documentation/ |
+| AdLer Dokumentation | https://docs.projekt-adler.eu |
 
 ### AdLer selbst betreiben
 
