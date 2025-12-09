@@ -21,6 +21,6 @@
 - [Admin Dokumentation: AdLer installieren](https://projektadler.github.io/Documentation/adler-installieren-vp.html): Eine etwas umfangreichere Dokumentation zu unserem konkreten Setup.
 
 **Die Webserver Edition aufsetzen**
-- [Installationsanleitung AdLer-Webserver-Edition](https://docs.projekt-adler.eu/Documentation/adler-webserver-edition-installationsanleitung.html): Hierbei handelt es sich um eine reduzierte Version des AdLers, welche die Verknüpfung zum LMS (Moodle) entfernt und nur im Browser des jeweiligen Nutzers läuft. Es findet keine Persistierung oder Synchronisation des Lernfortschritts außerhalb des Webbrowsers statt.
+- [Installationsanleitung AdLer-Webserver-Edition](https://docs.projekt-adler.eu/adler-webserver-edition-installationsanleitung.html): Hierbei handelt es sich um eine reduzierte Version des AdLers, welche die Verknüpfung zum LMS (Moodle) entfernt und nur im Browser des jeweiligen Nutzers läuft. Es findet keine Persistierung oder Synchronisation des Lernfortschritts außerhalb des Webbrowsers statt.
 
 
