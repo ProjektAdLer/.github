@@ -22,5 +22,5 @@
 
 **Die Webserver Edition aufsetzen**
 - [Installationsanleitung AdLer-Webserver-Edition](https://docs.projekt-adler.eu/adler-webserver-edition-installationsanleitung.html): Hierbei handelt es sich um eine reduzierte Version des AdLers, welche die Verknüpfung zum LMS (Moodle) entfernt und nur im Browser des jeweiligen Nutzers läuft. Es findet keine Persistierung oder Synchronisation des Lernfortschritts außerhalb des Webbrowsers statt.
-
+- [Release der Webserver Edition](https://github.com/ProjektAdLer/2D_3D_AdLer/releases)
 
